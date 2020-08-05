@@ -1,5 +1,6 @@
 def my_hash
-  your_hash = {instruments => guitar}
+  your_hash = {"instruments" => "guitar"}
+  your_hash
 end
 
 
